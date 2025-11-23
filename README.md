@@ -130,8 +130,6 @@ Place it in repo root.
 
 📝 Deployment
 
-Deployment is optional for this task.
-This submission includes all required components:
 
 Source code
 
